@@ -41,7 +41,7 @@
   <a href="https://www.instagram.com/gust4_sales/" target="blank">
     <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />  
   </a>&nbsp;&nbsp;
-  <a href="https://www.youtube.com/channel/UCctz-c-Iz_L1OMUo2YQMnMg target="blank">
+  <a href="https://www.youtube.com/channel/UCctz-c-Iz_L1OMUo2YQMnMg" target="blank">
     <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />  
   </a>
 </p>
