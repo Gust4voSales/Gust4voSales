@@ -32,19 +32,20 @@
   </a>
 </p>
 
-### 🤝🏻 Connect with me
+**** 
 <p> 
+  <strong>🤝🏻 Connect with me:</strong>
   &nbsp;&nbsp;
   <a href="mailto:manoel0gustavo@gmail.com" target="blank">
-    <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />  
+    <img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />  
   </a>&nbsp;&nbsp;
   <a href="https://www.instagram.com/gust4_sales/" target="blank">
-    <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />  
+    <img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />  
   </a>&nbsp;&nbsp;
   <a href="https://www.youtube.com/channel/UCctz-c-Iz_L1OMUo2YQMnMg" target="blank">
-    <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />  
+    <img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />  
   </a>
 </p>
                                                                                                     
-<br/>  <br/>  <br/>
+<br/>  <br/>  
 **⭐️ From [Gust4voSales](https://github.com/Gust4voSales)**
