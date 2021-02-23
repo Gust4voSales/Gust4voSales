@@ -22,7 +22,10 @@
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/figma/figma-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-ar21.svg"></code>
 
-### 💻 Personal projects I'm most prowd of
+<details>
+  <summary>
+ 💻 Personal projects I'm most prowd of
+  </summary>
 <p align="center">
   <a href="https://github.com/Gust4voSales/QuizSphere-Cliente" target="blank">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Gust4voSales&repo=QuizSphere-Cliente" />
@@ -31,6 +34,7 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Gust4voSales&repo=TIMES-Gerenciador-de-Foco" />
   </a>
 </p>
+</details>
 
 **** 
 <p> 
