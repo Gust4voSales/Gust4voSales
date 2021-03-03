@@ -30,6 +30,9 @@
   <a href="https://github.com/Gust4voSales/QuizSphere-Cliente" target="blank">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Gust4voSales&repo=QuizSphere-Cliente" />
   </a>
+  <a href="https://github.com/Gust4voSales/RecomendaFilmes" target="blank">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Gust4voSales&repo=RecomendaFilmes" />
+  </a>
   <a href="https://github.com/Gust4voSales/TIMES-Gerenciador-de-Foco" target="blank">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Gust4voSales&repo=TIMES-Gerenciador-de-Foco" />
   </a>
