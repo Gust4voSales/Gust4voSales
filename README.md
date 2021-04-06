@@ -4,7 +4,7 @@
 <img width="40%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gust4voSales&langs_count=6"/>
 
 ### 👨🏻‍💻 About Me
-- 🎓 I'm a Computer Science undegradute at UFAPE
+- 🎓 I'm a Computer Science undergraduate student at UFAPE
 - 💼 I'm currently working on personal projects that helps me gain experience with techs demanded on market 🔥
 - ✍️ Fluent in English
 - 🌱 I'm looking foward to learn game development 🎮 and AI 🤖.
