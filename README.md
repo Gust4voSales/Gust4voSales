@@ -1,7 +1,7 @@
 ##  👋 Hello there, I'm Gustavo Sales, a full stack developer 🚀 from Brazil.
 
 <!-- Provided by https://github.com/anuraghazra/github-readme-stats -->
-<img width="40%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gust4voSales&langs_count=6"/>
+<img width="40%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gust4voSales&langs_count=6&theme=tokyonight"/>
 
 ### 👨🏻‍💻 About Me
 - 🎓 I'm a Computer Science undergraduate student at UFAPE
@@ -12,15 +12,13 @@
 ### 🛠 Techs
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
   <br/>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
   <code><img width="10%" src="https://braze-marketing-assets.s3.amazonaws.com/images/partner_logos/react-native.png"></code>
   <br/>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/figma/figma-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-ar21.svg"></code>
+  <!--<code><img width="10%" src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-ar21.svg"></code> -->
 
 <details>
   <summary>
@@ -28,13 +26,13 @@
   </summary>
 <p align="center">
   <a href="https://github.com/Gust4voSales/QuizSphere-Cliente" target="blank">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Gust4voSales&repo=QuizSphere-Cliente" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Gust4voSales&repo=QuizSphere-Cliente&theme=tokyonight" />
   </a>
   <a href="https://github.com/Gust4voSales/RecomendaFilmes" target="blank">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Gust4voSales&repo=RecomendaFilmes" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Gust4voSales&repo=RecomendaFilmes&theme=tokyonight" />
   </a>
   <a href="https://github.com/Gust4voSales/TIMES-Gerenciador-de-Foco" target="blank">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Gust4voSales&repo=TIMES-Gerenciador-de-Foco" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Gust4voSales&repo=TIMES-Gerenciador-de-Foco&theme=tokyonight" />
   </a>
 </p>
 </details>
