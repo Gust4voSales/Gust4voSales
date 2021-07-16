@@ -7,7 +7,6 @@
 - 🎓 I'm a Computer Science undergraduate student at UFAPE
 - 🖱   I'm currently working as Mobile Developer at e.Life as an intern
 - 💼 I enjoy working on personal projects that helps me gain experience with techs demanded on market 🔥
-- ✍️ Fluent in English
 - 🌱 I'm looking foward to learn game development 🎮 and AI 🤖
 
 ### 🛠 Techs
