@@ -1,7 +1,7 @@
 ##  👋 Hello there, I'm Gustavo Sales, a full stack developer 🚀 from Brazil.
 
 <!-- Provided by https://github.com/anuraghazra/github-readme-stats -->
-<img width="40%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gust4voSales&langs_count=6&theme=tokyonight&hide=ShaderLab"/>
+<img width="40%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gust4voSales&layout=compact&langs_count=6&theme=tokyonight&hide=ShaderLab"/>
 
 ### 👨🏻‍💻 About Me
 - 🎓 I'm a Computer Science undergraduate student at UFAPE
@@ -31,6 +31,9 @@
   </a>
   <a href="https://github.com/Gust4voSales/RecomendaFilmes" target="blank">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Gust4voSales&repo=RecomendaFilmes&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/Gust4voSales/TIMES-Gerenciador-de-Foco" target="blank">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Gust4voSales&repo=TIMES-Gerenciador-de-Foco&theme=tokyonight" />
   </a>
   <a href="https://github.com/Gust4voSales/TIMES-Gerenciador-de-Foco" target="blank">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Gust4voSales&repo=TIMES-Gerenciador-de-Foco&theme=tokyonight" />
