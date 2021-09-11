@@ -36,7 +36,7 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Gust4voSales&repo=TIMES-Gerenciador-de-Foco&theme=tokyonight" />
   </a>
   <a href="https://github.com/Gust4voSales/TIMES-Gerenciador-de-Foco" target="blank">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Gust4voSales&repo=TIMES-Gerenciador-de-Foco&theme=tokyonight" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Gust4voSales&repo=LockdownPlatformer-UNITY&theme=tokyonight" />
   </a>
 </p>
 </details>
