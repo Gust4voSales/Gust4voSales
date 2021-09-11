@@ -1,7 +1,7 @@
 ##  👋 Hello there, I'm Gustavo Sales, a full stack developer 🚀 from Brazil.
 
 <!-- Provided by https://github.com/anuraghazra/github-readme-stats -->
-<img width="40%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gust4voSales&langs_count=6&theme=tokyonight"/>
+<img width="40%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gust4voSales&langs_count=6&theme=tokyonight&hide=ShaderLab"/>
 
 ### 👨🏻‍💻 About Me
 - 🎓 I'm a Computer Science undergraduate student at UFAPE
@@ -10,14 +10,14 @@
 - 🌱 I'm looking foward to learn game development 🎮 and AI 🤖
 
 ### 🛠 Techs
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+<div style="display: flex">
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
   <br/>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
-  <code><img width="10%" src="https://braze-marketing-assets.s3.amazonaws.com/images/partner_logos/react-native.png"></code>
-  <br/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge">
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <br/></div>
   <!--<code><img width="10%" src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-ar21.svg"></code> -->
 <br/>
 <br/>
