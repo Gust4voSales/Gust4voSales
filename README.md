@@ -40,6 +40,25 @@
   </a>
 </p>
 </details>
+<details>
+  <summary>
+ 🌟 Most starred projects 
+  </summary>
+<p align="center">
+  <a href="https://github.com/Gust4voSales/Netclone_Netflix-UI-Clone" target="blank">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Gust4voSales&repo=Netclone_Netflix-UI-Clone&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/Gust4voSales/QuizSphere-Backend" target="blank">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Gust4voSales&repo=QuizSphere-Backend&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/Gust4voSales/Marvin-VirtualAssistent" target="blank">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Gust4voSales&repo=Marvin-VirtualAssistent&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/Gust4voSales/LeagueOfLegends-Bot-de-Fila" target="blank">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Gust4voSales&repo=LeagueOfLegends-Bot-de-Fila&theme=tokyonight" />
+  </a>
+</p>
+</details>
 
 **** 
 <p> 
