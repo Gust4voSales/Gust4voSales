@@ -38,6 +38,9 @@
   <a href="https://github.com/Gust4voSales/LockdownPlatformer-UNITY" target="blank">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Gust4voSales&repo=LockdownPlatformer-UNITY&theme=tokyonight" />
   </a>
+  <a href="https://github.com/Gust4voSales/ClipMaker" target="blank">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Gust4voSales&repo=ClipMaker&theme=tokyonight" />
+  </a>
 </p>
 </details>
 <details>
