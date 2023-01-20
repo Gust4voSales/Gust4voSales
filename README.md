@@ -1,7 +1,7 @@
 ##  👋 Hello there, I'm Gustavo Sales, a full stack developer 🚀 from Brazil.
 
 <!-- Provided by https://github.com/anuraghazra/github-readme-stats -->
-<img width="40%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gust4voSales&layout=compact&langs_count=6&theme=tokyonight&hide=ShaderLab"/>
+<img width="40%" align="right" src="https://github-readme-stats-gust4vosales.vercel.app/api/top-langs/?username=Gust4voSales&layout=compact&langs_count=6&theme=tokyonight&hide=ShaderLab"/>
 
 ### 👨🏻‍💻 About Me
 - 🎓 I'm a Computer Science undergraduate student at UFAPE
@@ -27,19 +27,19 @@
   </summary>
 <p align="center">
   <a href="https://github.com/Gust4voSales/QuizSphere-Cliente" target="blank">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Gust4voSales&repo=QuizSphere-Cliente&theme=tokyonight" />
+    <img align="center" src="https://github-readme-stats-gust4vosales.vercel.app/api/pin/?username=Gust4voSales&repo=QuizSphere-Cliente&theme=tokyonight" />
   </a>
   <a href="https://github.com/Gust4voSales/RecomendaFilmes" target="blank">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Gust4voSales&repo=RecomendaFilmes&theme=tokyonight" />
+    <img align="center" src="https://github-readme-stats-gust4vosales.vercel.app/api/pin/?username=Gust4voSales&repo=RecomendaFilmes&theme=tokyonight" />
   </a>
   <a href="https://github.com/Gust4voSales/TIMES-Gerenciador-de-Foco" target="blank">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Gust4voSales&repo=TIMES-Gerenciador-de-Foco&theme=tokyonight" />
+    <img align="center" src="https://github-readme-stats-gust4vosales.vercel.app/api/pin/?username=Gust4voSales&repo=TIMES-Gerenciador-de-Foco&theme=tokyonight" />
   </a>
   <a href="https://github.com/Gust4voSales/LockdownPlatformer-UNITY" target="blank">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Gust4voSales&repo=LockdownPlatformer-UNITY&theme=tokyonight" />
+    <img align="center" src="https://github-readme-stats-gust4vosales.vercel.app/api/pin/?username=Gust4voSales&repo=LockdownPlatformer-UNITY&theme=tokyonight" />
   </a>
   <a href="https://github.com/Gust4voSales/ClipMaker" target="blank">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Gust4voSales&repo=ClipMaker&theme=tokyonight" />
+    <img align="center" src="https://github-readme-stats-gust4vosales.vercel.app/api/pin/?username=Gust4voSales&repo=ClipMaker&theme=tokyonight" />
   </a>
 </p>
 </details>
@@ -49,16 +49,16 @@
   </summary>
 <p align="center">
   <a href="https://github.com/Gust4voSales/Netclone_Netflix-UI-Clone" target="blank">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Gust4voSales&repo=Netclone_Netflix-UI-Clone&theme=tokyonight" />
+    <img align="center" src="https://github-readme-stats-gust4vosales.vercel.app/api/pin/?username=Gust4voSales&repo=Netclone_Netflix-UI-Clone&theme=tokyonight" />
   </a>
   <a href="https://github.com/Gust4voSales/QuizSphere-Backend" target="blank">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Gust4voSales&repo=QuizSphere-Backend&theme=tokyonight" />
+    <img align="center" src="https://github-readme-stats-gust4vosales.vercel.app/api/pin/?username=Gust4voSales&repo=QuizSphere-Backend&theme=tokyonight" />
   </a>
   <a href="https://github.com/Gust4voSales/Marvin-VirtualAssistent" target="blank">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Gust4voSales&repo=Marvin-VirtualAssistent&theme=tokyonight" />
+    <img align="center" src="https://github-readme-stats-gust4vosales.vercel.app/api/pin/?username=Gust4voSales&repo=Marvin-VirtualAssistent&theme=tokyonight" />
   </a>
   <a href="https://github.com/Gust4voSales/LeagueOfLegends-Bot-de-Fila" target="blank">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Gust4voSales&repo=LeagueOfLegends-Bot-de-Fila&theme=tokyonight" />
+    <img align="center" src="https://github-readme-stats-gust4vosales.vercel.app/api/pin/?username=Gust4voSales&repo=LeagueOfLegends-Bot-de-Fila&theme=tokyonight" />
   </a>
 </p>
 </details>
