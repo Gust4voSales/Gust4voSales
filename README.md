@@ -1,8 +1,5 @@
 ##  👋 Hello there, I'm Gustavo Sales, a full stack developer 🚀 from Brazil.
 
-<!-- Provided by https://github.com/anuraghazra/github-readme-stats -->
-<img width="40%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gust4voSales&layout=compact&langs_count=6&theme=tokyonight&hide=ShaderLab"/>
-
 ### 👨🏻‍💻 About Me
 - 🎓 I'm a Computer Science undergraduate student at UFAPE
 - 💼 I'm currently working as front end developer at Cartão Bounty from eLife group 
@@ -13,14 +10,20 @@
 <div style="display: flex">
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
-  <br/>
+   <br />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img src="https://img.shields.io/badge/NodeJS-3C873A?style=for-the-badge&logo=node.js&logoColor=FFF">
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+
+  <img src="https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NestJS-FFF?style=for-the-badge&logo=nestjs&logoColor=E0234E"/>
+  <img src="https://img.shields.io/badge/Prisma-4C51BF?style=for-the-badge&logo=prisma&logoColor=fff"/>
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=fff"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  
+  
   <br/></div>
-  <!--<code><img width="10%" src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-ar21.svg"></code> -->
-<br/>
-<br/>
+
 <details>
   <summary>
  💻 Personal projects I'm most prowd of
