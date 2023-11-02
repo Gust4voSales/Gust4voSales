@@ -4,6 +4,7 @@
 Bachelor's degree in Computer Science, currently working as a developer at Bounty. I have extensive experience in the entire software development lifecycle. The technologies I specialize in are React, React Native, and Node.js, but I'm always determined to learn new tools. I am proactive, responsible, agile, and communicative. 
 
 🖱 I have knowledge with techs such as Ruby on Rails, Native Android with Kotlin and Python for data science and machine learning as well.
+
 🌱 My areas of interest are software Engineering, agile software development, clean code and AI
 
 ### 🛠 Techs
