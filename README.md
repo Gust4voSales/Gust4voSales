@@ -30,6 +30,9 @@ Bachelor's degree in Computer Science, currently working as a developer at Bount
  💻 Personal projects I'm most prowd of
   </summary>
 <p align="center">
+ <a href="https://github.com/Gust4voSales/petshop-project" target="blank">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Gust4voSales&repo=petshop-project&theme=tokyonight" />
+  </a>
   <a href="https://github.com/Gust4voSales/QuizSphere-Cliente" target="blank">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Gust4voSales&repo=QuizSphere-Cliente&theme=tokyonight" />
   </a>
@@ -38,10 +41,7 @@ Bachelor's degree in Computer Science, currently working as a developer at Bount
   </a>
    <a href="https://github.com/Gust4voSales/loop-pedal-online" target="blank">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Gust4voSales&repo=loop-pedal-online&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/Gust4voSales/TIMES-Gerenciador-de-Foco" target="blank">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Gust4voSales&repo=TIMES-Gerenciador-de-Foco&theme=tokyonight" />
-  </a>
+  </a> 
   <a href="https://github.com/Gust4voSales/ClipMaker" target="blank">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Gust4voSales&repo=ClipMaker&theme=tokyonight" />
   </a> 
