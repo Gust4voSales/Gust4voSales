@@ -31,22 +31,22 @@ Bachelor's degree in Computer Science, currently working as a developer at LIQI 
   </summary>
 <p align="center">
  <a href="https://github.com/Gust4voSales/petshop-project" target="blank">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Gust4voSales&repo=petshop-project&theme=tokyonight" />
+    <img align="center" src="https://github-stats-extended.vercel.app/api/pin/?username=Gust4voSales&repo=petshop-project&theme=tokyonight" />
   </a>
   <a href="https://github.com/Gust4voSales/QuizSphere-Cliente" target="blank">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Gust4voSales&repo=QuizSphere-Cliente&theme=tokyonight" />
+    <img align="center" src="https://github-stats-extended.vercel.app/api/pin/?username=Gust4voSales&repo=QuizSphere-Cliente&theme=tokyonight" />
   </a>
   <a href="https://github.com/Gust4voSales/RecomendaFilmes" target="blank">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Gust4voSales&repo=RecomendaFilmes&theme=tokyonight" />
+    <img align="center" src="https://github-stats-extended.vercel.app/api/pin/?username=Gust4voSales&repo=RecomendaFilmes&theme=tokyonight" />
   </a>
    <a href="https://github.com/Gust4voSales/loop-pedal-online" target="blank">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Gust4voSales&repo=loop-pedal-online&theme=tokyonight" />
+    <img align="center" src="https://github-stats-extended.vercel.app/api/pin/?username=Gust4voSales&repo=loop-pedal-online&theme=tokyonight" />
   </a> 
   <a href="https://github.com/Gust4voSales/ClipMaker" target="blank">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Gust4voSales&repo=ClipMaker&theme=tokyonight" />
+    <img align="center" src="https://github-stats-extended.vercel.app/api/pin/?username=Gust4voSales&repo=ClipMaker&theme=tokyonight" />
   </a> 
   <a href="https://github.com/Gust4voSales/LockdownPlatformer-UNITY" target="blank">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Gust4voSales&repo=LockdownPlatformer-UNITY&theme=tokyonight" />
+    <img align="center" src="https://github-stats-extended.vercel.app/api/pin/?username=Gust4voSales&repo=LockdownPlatformer-UNITY&theme=tokyonight" />
   </a>  
 </p>
 </details>
@@ -56,16 +56,16 @@ Bachelor's degree in Computer Science, currently working as a developer at LIQI 
   </summary>
 <p align="center">
   <a href="https://github.com/Gust4voSales/Marvin-VirtualAssistent" target="blank">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Gust4voSales&repo=Marvin-VirtualAssistent&theme=tokyonight" />
+    <img align="center" src="https://github-stats-extended.vercel.app/api/pin/?username=Gust4voSales&repo=Marvin-VirtualAssistent&theme=tokyonight" />
   </a>
   <a href="https://github.com/Gust4voSales/Netclone_Netflix-UI-Clone" target="blank">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Gust4voSales&repo=Netclone_Netflix-UI-Clone&theme=tokyonight" />
+    <img align="center" src="https://github-stats-extended.vercel.app/api/pin/?username=Gust4voSales&repo=Netclone_Netflix-UI-Clone&theme=tokyonight" />
   </a>
   <a href="https://github.com/Gust4voSales/ClipMaker" target="blank">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Gust4voSales&repo=ClipMaker&theme=tokyonight" />
+    <img align="center" src="https://github-stats-extended.vercel.app/api/pin/?username=Gust4voSales&repo=ClipMaker&theme=tokyonight" />
   </a> 
   <a href="https://github.com/Gust4voSales/QuizSphere-Backend" target="blank">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Gust4voSales&repo=QuizSphere-Backend&theme=tokyonight" />
+    <img align="center" src="https://github-stats-extended.vercel.app/api/pin/?username=Gust4voSales&repo=QuizSphere-Backend&theme=tokyonight" />
   </a>    
 </p>
 </details>
